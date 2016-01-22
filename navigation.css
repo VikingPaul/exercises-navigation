@@ -1,0 +1,19 @@
+nav {
+  background-color: gold;
+  position: fixed;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+a:hover {
+  color: red;
+  background-color: white;
+}
+
+ a:active {
+  padding: 0 5px;
+} 
